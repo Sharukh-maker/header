@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "pageUrl": "https://nhssbsnp.sharepoint.com/sites/beehive/SitePages/Main%20Landing%20Page.aspx",
       "customActions": {
         "5f8736e9-314e-4355-b9aa-4eb05bf851b6": {
           "location": "ClientSideExtension.ApplicationCustomizer",
@@ -15,7 +15,7 @@
       }
     },
     "navHeader": {
-      "pageUrl": "https://contoso.sharepoint.com/sites/mySite/SitePages/myPage.aspx",
+      "pageUrl": "https://nhssbsnp.sharepoint.com/sites/beehive/SitePages/Main%20Landing%20Page.aspx",
       "customActions": {
         "5f8736e9-314e-4355-b9aa-4eb05bf851b6": {
           "location": "ClientSideExtension.ApplicationCustomizer",

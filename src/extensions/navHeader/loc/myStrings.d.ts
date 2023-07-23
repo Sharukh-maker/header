@@ -1,4 +1,5 @@
 declare interface INavHeaderApplicationCustomizerStrings {
+  HeaderDisplayName: any;
   Title: string;
 }
 
